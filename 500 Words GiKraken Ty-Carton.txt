@@ -1,0 +1,36 @@
+I watched the video on Canvas about Git, GitKraken, and GitHub. GitHub is a cloud based storage service that allows users, and business entities to share information effortlessly. You must sync your Github account with gitkraken.
+
+Setting up a repository: You can set up a repository by choosing a folder to save all your local files into. Here you can work on your files offline, and save them to this repository. When you are ready to upload to the cloud, then you launch gitKraken.
+
+With GitKraken open, make sure you are connected to your gihub account. You can click in the upper left to clone a repo. 
+
+Changes you have made will appear, and you can then stage them. When you stage the files it allows you to have them ready to commit. 
+
+Committing: You can commit staged files by looking in the sidebar. Once in the sidebar, you press commit changes. 
+
+Summary. You must write a small summary of the changes you are committing before you can push. 
+
+Pushing. Click push when you are ready to upload the changes to the cloud. 
+
+Mistakes: If you make a mistake, you can always press the undo button, or also right click and revert a commit. 
+
+Setting up a remote branch: Click remote in the left tab, and then select it and activate your remote branch. 
+ 
+Forking. You can fork a repository to work on a new project. 
+
+You can have your changes reviewed in github, by sending a pull request. 
+ 
+Pull request: Pull requests are a way for a second pair of eyes to view your work before you submit. They can approve it, or send it back before your changes can be added into the master branch. 
+
+Your own branch: You can make your own branch by selecting the branch button. You must name your unique branch. A branch is just like a branch on a tree. Aptly named. It allows you to work on your own thing, make changes and not worry about making changes to the master branch. Again, You may need approval from a producer or project leader. 
+Features I would like to see
+
+There are three things that as of writing GitKraken doesn’t do which I would love it to;
+
+    When opening a repo you can’t quickly type to jump to a name. I have a lot of repositories so this would be awesome.
+    It would be fantastic if you could spell check commit messages.
+    Being able to select multiple files at once to stage. Right now you can stage all or stage one by one individually, I’ve found several instances when I would like to select a sub-section of edited files that are all grouped together.
+
+Out of these three points, only the first one can be easily addressed with the CLI, the other two aren’t available out of the box to the CLI.
+    Software like this is going to be essential to project based work, and collaboration. 
+The downside to using such software is that all team members must face a learning curve.
